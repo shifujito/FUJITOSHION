@@ -5,7 +5,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FUJITOSHION&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FUJITOSHION&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FUJITOSHION&hide=jupyter%20notebook,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
